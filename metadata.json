@@ -1,0 +1,5 @@
+{
+  "name": "NovaCalc AI",
+  "description": "A world-class scientific calculator integrated with Gemini AI for natural language math solving and step-by-step explanations.",
+  "requestFramePermissions": []
+}
